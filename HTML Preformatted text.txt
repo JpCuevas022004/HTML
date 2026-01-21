@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<pre>
+ This is the way
+   I want this paragraph
+      be displayed.</pre>
+
+</body>
+</html>
+

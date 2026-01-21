@@ -1,0 +1,11 @@
+<html>
+<head>
+      <title>Exercise 1</title>
+</head>
+<body>
+      <p>This is a paragraph.</p>
+      <br><b>I am Bold.</b>
+      <br><i>I am Stylish.</i>
+      <br><u>Look at my down under.</u>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Images on Another Server</h2>
+
+<img src="JohnPaulCuevas_profile picture.jpg" alt="MyProfile" style="width:104px;height:142px;">
+<p><a href="https://www.facebook.com">Go to Facebook</a></p>
+
+</body>
+</html>
+

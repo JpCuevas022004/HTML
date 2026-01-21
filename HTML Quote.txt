@@ -1,0 +1,8 @@
+<html>
+<body>
+  <p>This is a sample of Quote.</p>
+
+<q>Succinctly, pi—which is written as the Greek letter for p, or π—is the ratio of the circumference of any circle to the diameter of that circle. 
+Regardless of the circle's size, this ratio will always equal pi. In decimal form, the value of pi is approximately 3.14.</q> 
+</body>
+</html>
